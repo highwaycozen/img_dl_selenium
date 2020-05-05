@@ -1,4 +1,4 @@
-# imgdlwselenium
+# Images Download with Selenium
 Download Gundam images from imgur, using selenium to input the search term and paginate to get more images.  
 Apply random image filters from Pillow library, and save both original and processed image files.  
 
